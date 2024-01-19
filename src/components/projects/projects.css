@@ -74,6 +74,8 @@
 @media only screen and (max-width: 768px) {
     .projectsContainer{
         padding-top: 55%;
+        height: auto;
+        min-height: 870vh;
     }
     .wrapperProjects {
         width: 90%; 
@@ -98,6 +100,11 @@
 }
 
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .projectsContainer{
+        height: auto;
+        min-height: 700vh;
+    }
+
     .wrapperProjects {
         width: 80%; 
     }
@@ -109,8 +116,8 @@
     }
 
     .projectsContainer img {
-        height: 350px;
-        width: 400px;
+        height: 320px;
+        width: 380px;
         margin-top: 10%;
     }
 
