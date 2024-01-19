@@ -1,0 +1,121 @@
+
+.projectsContainer{
+    display: flex;
+    flex-direction: column;
+    width: 102%;
+    height: 530vh;
+    margin: auto;
+    padding-top: 10%;
+    background-color: #f5f5f5;
+    color: rgba(148, 60, 120);
+}
+
+.wrapperProjects{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 490vh;
+    margin: auto;
+    margin-top: 0%;
+}
+
+.projectsElem{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 20vh;
+    margin: auto;
+    margin-top: 10%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.projectsContainer img {
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 7px;
+    height: 380px;
+    width: 430px;
+    background-color: #c9c9c9;
+    box-shadow: 8px 8px 8px 8px #aeaeae;
+    transition: all 1s ease;
+}
+
+.projectsContainer img:hover{
+    transform: scale(1.1); 
+    box-shadow: 10px 10px 10px 10px #aeaeae;
+    transition: all 1s ease;
+}
+
+.aboutProjectContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.toGitHub{
+    height: 30px;
+    width: 200px;
+    background-color: rgba(148, 60, 120);
+    border-radius: 3px;
+}
+
+.toGitHub a{
+    text-decoration: none;
+    color: #aeaeae;
+}
+
+.toGitHub:hover{
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 768px) {
+    .projectsContainer{
+        padding-top: 55%;
+    }
+    .wrapperProjects {
+        width: 90%; 
+    }
+
+    .projectsElem {
+        flex-direction: column; 
+        height: auto; 
+        margin-top: 5%;
+    }
+
+    .projectsContainer img {
+        height: auto; 
+        width: 80%; 
+        margin-top: 5%; 
+    }
+
+    .aboutProjectContainer {
+        margin-top: 5%;
+        width: 80%; 
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .wrapperProjects {
+        width: 80%; 
+    }
+
+    .projectsElem {
+        flex-direction: row; 
+        height: 20vh;
+        margin-top: 13%;
+    }
+
+    .projectsContainer img {
+        height: 350px;
+        width: 400px;
+        margin-top: 10%;
+    }
+
+    .aboutProjectContainer {
+        width: 50%;
+        margin-top: 10%;
+    }
+}

@@ -1,0 +1,138 @@
+.navbarContainer {
+    display: flex;
+    flex-direction: row; 
+    background-color: rgba(148, 60, 120);
+    height: 12vh;
+    width: 100%;
+    position: fixed;
+    z-index: 9999;
+    box-shadow: 5px 5px 8px 8px  rgba(148, 60, 120);
+    transition: transform 0.5s ease-out;
+}
+
+.nameContainer {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding: 0%;
+    margin-left: 1%;
+    width: 35%;
+}
+
+.name {
+    padding: 0;
+    margin: 0;
+    margin-left: 5%;
+    color: #F5F5F5;
+}
+
+.nameLink:hover {
+    color: #481e3b;
+    transition: color 0.5s; 
+}
+
+.nameLink {
+    color: #F5F5F5;
+    text-decoration: none;
+    transition: color 0.5s; 
+}
+
+.linksContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 55%;
+    margin: auto;
+}
+
+.links {
+    color: #F5F5F5;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+    margin-left: 7%;
+    width: 100px; 
+    text-align: center; 
+    transition: color 0.5s; 
+}
+
+.links:focus {
+    color: #481e3b;
+}
+
+.links:hover {
+    color: #481e3b;
+}
+
+.nameContainer div {
+    color: #F5F5F5;
+    margin: 2%;
+}
+
+.linksContainer button {
+    background-color: transparent;
+    width: 180px;
+    height: 30px;
+    border-radius: 3px;
+    border: 2px solid ;
+}
+
+.linksContainer button:hover{
+    cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+    .navbarContainer{
+        height: auto;
+    }
+
+    .links{
+        flex-direction: column;
+        font-size: 10px;
+        font-weight: 300;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .navbarContainer {
+      flex-direction: column; 
+      justify-content: center;
+      height: auto;
+      align-items: center; 
+      background-color: rgba(148, 60, 120, 0.7);
+      box-shadow: 5px 5px 5px 5px rgba(148, 60, 120, 0.7);
+    }
+  
+    .nameContainer {
+      width: 100%; 
+      margin: 0; 
+      justify-content: center;
+      text-align: center; 
+    }
+  
+    .name {
+      margin-left: 0; 
+    }
+  
+    .linksContainer {
+      width: 100%; 
+      flex-direction: column;
+      margin-top: 10px; 
+    }
+  
+    .links {
+      margin: 0;
+      margin-bottom: 10px; 
+      font-size: 10px;
+      font-weight: 300;
+    }
+  
+    .linksContainer button {
+      margin-top: 10px;
+      display: flex; 
+      justify-content: center;
+      align-items: center;
+    }
+  }
