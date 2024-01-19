@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio-luiza-avetisyan/static/css/main.09895210.css",
+    "main.js": "/portfolio-luiza-avetisyan/static/js/main.847dd8a2.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-luiza-avetisyan/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Luiza_Avetisyan.pdf": "/portfolio-luiza-avetisyan/static/media/Luiza_Avetisyan.d52e895d67ff29399ce1.pdf",
+    "static/media/cards.png": "/portfolio-luiza-avetisyan/static/media/cards.d533a849273902a2520e.png",
+    "static/media/background.jpg": "/portfolio-luiza-avetisyan/static/media/background.b79a5115c32eb3b6e16c.jpg",
+    "static/media/finance.png": "/portfolio-luiza-avetisyan/static/media/finance.da2dffd6c12a7ab04293.png",
+    "static/media/react.png": "/portfolio-luiza-avetisyan/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/pic.png": "/portfolio-luiza-avetisyan/static/media/pic.95d0663454d20bd2c8cd.png",
+    "static/media/weather.png": "/portfolio-luiza-avetisyan/static/media/weather.5990087cce539955c2d2.png",
+    "static/media/node.png": "/portfolio-luiza-avetisyan/static/media/node.2f7d36e57813567bf89f.png",
+    "static/media/linux.png": "/portfolio-luiza-avetisyan/static/media/linux.b29e3a438d7d114f38a2.png",
+    "static/media/gpt.png": "/portfolio-luiza-avetisyan/static/media/gpt.df6d76a859c288d81370.png",
+    "static/media/mongo.png": "/portfolio-luiza-avetisyan/static/media/mongo.e4b2024b72115e06ac49.png",
+    "static/media/library.png": "/portfolio-luiza-avetisyan/static/media/library.0d12355d89cd7022d947.png",
+    "static/media/c.png": "/portfolio-luiza-avetisyan/static/media/c.bf0af88d24cd724c83bc.png",
+    "static/media/countDown.png": "/portfolio-luiza-avetisyan/static/media/countDown.c31d84f2b27a4b5453de.png",
+    "static/media/portfolio.png": "/portfolio-luiza-avetisyan/static/media/portfolio.ecba55c221da7bff7702.png",
+    "static/media/css.png": "/portfolio-luiza-avetisyan/static/media/css.92f3512eed855b5d7ec5.png",
+    "static/media/ca.png": "/portfolio-luiza-avetisyan/static/media/ca.ac37750c3dee0f1186df.png",
+    "static/media/html.png": "/portfolio-luiza-avetisyan/static/media/html.cfb2ba4a6b1c3de295bc.png",
+    "index.html": "/portfolio-luiza-avetisyan/index.html",
+    "main.09895210.css.map": "/portfolio-luiza-avetisyan/static/css/main.09895210.css.map",
+    "main.847dd8a2.js.map": "/portfolio-luiza-avetisyan/static/js/main.847dd8a2.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-luiza-avetisyan/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09895210.css",
+    "static/js/main.847dd8a2.js"
+  ]
+}
