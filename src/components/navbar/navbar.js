@@ -42,7 +42,7 @@ export default function Navbar() {
     >
       <div className="nameContainer">
         <h1 className="name">
-          <Link to="/" className="nameLink">
+          <Link to="/portfolio-luiza-avetisyan" className="nameLink">
             Luiza Avetisyan
           </Link>
         </h1>
