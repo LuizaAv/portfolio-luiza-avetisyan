@@ -52,6 +52,7 @@
         padding-top: 30%;
         min-height: 390vh;
         height: auto;
+        padding-bottom: 2%;
     }
 }
 
@@ -59,6 +60,7 @@
     .skillsContainer {
         padding-top: 10%;
         min-height: 260vh;
-        height: auto;
+        padding-bottom: 2%;
+        /* height: auto; */
     }
 }

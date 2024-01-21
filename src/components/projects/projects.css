@@ -76,9 +76,13 @@
         padding-top: 55%;
         height: auto;
         min-height: 870vh;
+        padding-bottom: 2%;
     }
     .wrapperProjects {
         width: 90%; 
+        height: auto;
+        min-height: 830vh;
+        padding-bottom: 2%;
     }
 
     .projectsElem {
@@ -103,10 +107,14 @@
     .projectsContainer{
         height: auto;
         min-height: 700vh;
+        padding-bottom: 2%;
     }
 
     .wrapperProjects {
         width: 80%; 
+        min-height: 650vh;
+        height: auto;
+        padding-bottom: 2%;
     }
 
     .projectsElem {
