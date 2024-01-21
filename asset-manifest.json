@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-luiza-avetisyan/static/css/main.870e9577.css",
+    "main.css": "/portfolio-luiza-avetisyan/static/css/main.2db04075.css",
     "main.js": "/portfolio-luiza-avetisyan/static/js/main.24ead91b.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-luiza-avetisyan/static/js/787.1ed0c42c.chunk.js",
     "static/media/Luiza_Avetisyan.pdf": "/portfolio-luiza-avetisyan/static/media/Luiza_Avetisyan.d52e895d67ff29399ce1.pdf",
@@ -22,12 +22,12 @@
     "static/media/ca.png": "/portfolio-luiza-avetisyan/static/media/ca.ac37750c3dee0f1186df.png",
     "static/media/html.png": "/portfolio-luiza-avetisyan/static/media/html.cfb2ba4a6b1c3de295bc.png",
     "index.html": "/portfolio-luiza-avetisyan/index.html",
-    "main.870e9577.css.map": "/portfolio-luiza-avetisyan/static/css/main.870e9577.css.map",
+    "main.2db04075.css.map": "/portfolio-luiza-avetisyan/static/css/main.2db04075.css.map",
     "main.24ead91b.js.map": "/portfolio-luiza-avetisyan/static/js/main.24ead91b.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-luiza-avetisyan/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.870e9577.css",
+    "static/css/main.2db04075.css",
     "static/js/main.24ead91b.js"
   ]
 }
