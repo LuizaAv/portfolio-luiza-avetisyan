@@ -107,7 +107,7 @@
 @media only screen and (max-width: 768px) {
     .aboutContainer{
         padding-top: 45%;
-        min-height: 250vh;
+        min-height: 300vh;
         height: auto;
         padding-bottom: 2%;
     }
@@ -140,7 +140,7 @@
 
     .aboutContainer{
         padding-top: 45%;
-        min-height: 250vh;
+        min-height: 300vh;
         height: auto;
         padding-bottom: 2%;
     }
