@@ -17,7 +17,7 @@ function App() {
       <Navbar/>
       <ScrollToTop />
       <Routes>
-          <Route path = {process.env.PUBLIC_URL + "/"} exact element = {<Allpages />} />
+          <Route path = "/" exact element = {<Allpages />} />
           <Route path = "/experiance" element = {<Experiance /> } />
           <Route path = "/about" element = {<About />} />
           <Route path = "/skills" element = {<Skills /> } />
