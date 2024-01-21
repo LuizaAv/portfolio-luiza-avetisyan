@@ -50,7 +50,7 @@
 @media only screen and (max-width: 768px) {
     .skillsContainer {
         padding-top: 30%;
-        min-height: 380vh;
+        min-height: 390vh;
         height: auto;
     }
 }
@@ -58,7 +58,7 @@
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
     .skillsContainer {
         padding-top: 10%;
-        min-height: 250vh;
+        min-height: 260vh;
         height: auto;
     }
 }

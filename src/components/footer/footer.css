@@ -29,6 +29,7 @@
   .footer-right {
     display: flex;
     width: 100px;
+    margin: auto;
     justify-content: space-between;
   }
 
