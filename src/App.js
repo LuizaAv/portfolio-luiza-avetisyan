@@ -18,8 +18,8 @@ function App() {
       <ScrollToTop />
       <Routes>
           <Route path = "/" exact element = {<Allpages />} />
-          <Route path = "/about" element = {<About />} />
           <Route path = "/experiance" element = {<Experiance /> } />
+          <Route path = "/about" element = {<About />} />
           <Route path = "/skills" element = {<Skills /> } />
           <Route path = "/portfolio" element = {<Portfolio />} />
           <Route path = "/contact" element = {<Contact />} />
