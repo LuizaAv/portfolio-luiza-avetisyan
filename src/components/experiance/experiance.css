@@ -46,11 +46,12 @@
 .secondColoumn a {
     text-decoration: none;
     transition: 0.5s;
+    color: #943c78;
 }
 
 .firstColoumn a:visited,
 .secondColoumn a:visited {
-    color: #383838;
+    color: #943c78;
 }
 
 .workeducation {
@@ -65,7 +66,12 @@
 .workeducation a {
     transition: 0.5s ease-out 150ms;
     opacity: 0.9;
+    color: #943c78;
 }
+
+/* .workeducation a:visited{
+    color: #383838;
+} */
 
 .workeducation p {
     transition: 0.5s ease-out 150ms;
@@ -80,9 +86,13 @@
     opacity: 0.9;
 }
 
-.workeducation:hover a,
-.workeducation:hover p {
+.workeducation:hover a{
     color: #943c78;
+    transition: 0.5s ease-out 150ms;
+    opacity: 0.9;
+}
+
+.workeducation:hover p {
     transition: 0.5s ease-out 150ms;
     opacity: 0.9;
 }

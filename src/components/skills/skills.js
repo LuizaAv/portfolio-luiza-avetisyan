@@ -11,6 +11,7 @@ import node from "./pictures/node.png";
 import mongo from "./pictures/mongo.png";
 import c from "./pictures/c.png";
 import linux from "./pictures/linux.png";
+import git from "./pictures/git.png";
 import ooad from "./pictures/ooad.png";
 
 const skills = [
@@ -57,6 +58,10 @@ const skills = [
     {
         name: "OOAD",
         imgPath: ooad,
+    },
+    {
+        name: "Git / Github",
+        imgPath: git,
     }
 ]
 
