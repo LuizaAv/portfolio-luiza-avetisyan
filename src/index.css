@@ -1,7 +1,7 @@
 body {
   margin: 0;
   width: 100%;
-  font-family:'Open Sans', sans-serif;
+  font-family: 'Droid Sans', 'Chilanka', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #F5F5F5;
@@ -10,7 +10,7 @@ body {
 }
 
 code {
-  font-family:'Open Sans', sans-serif;
+  font-family: 'Droid Sans', 'Chilanka', cursive;
 }
 
 ::-webkit-scrollbar {
@@ -29,4 +29,22 @@ code {
 
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(148, 60, 120, 0.7);
+}
+
+@media only screen and (max-width: 768px) {
+  body{
+    font-family:'Open Sans', sans-serif;
+  }
+  code {
+    font-family:'Open Sans', sans-serif;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  body{
+    font-family:'Open Sans', sans-serif;
+  }
+  code {
+    font-family:'Open Sans', sans-serif;
+  }
 }
