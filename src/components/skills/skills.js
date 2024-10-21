@@ -13,6 +13,8 @@ import c from "./pictures/c.png";
 import linux from "./pictures/linux.png";
 import git from "./pictures/git.png";
 import ooad from "./pictures/ooad.png";
+import next from "./pictures/next.png"
+import redux from "./pictures/redux.png"
 
 const skills = [
     {
@@ -42,6 +44,14 @@ const skills = [
     {
         name: "Node.js",
         imgPath: node,
+    },
+    {
+        name: "Redux",
+        imgPath: redux,
+    },
+    {
+        name: "Next.js",
+        imgPath: next,
     },
     {
         name: "Mongo DB",

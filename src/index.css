@@ -1,7 +1,7 @@
 body {
   margin: 0;
   width: 100%;
-  font-family: 'Droid Sans', 'Chilanka', cursive;
+  font-family: 'Noto Sans';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #F5F5F5;
@@ -10,7 +10,7 @@ body {
 }
 
 code {
-  font-family: 'Droid Sans', 'Chilanka', cursive;
+  font-family: 'Noto Sans';
 }
 
 ::-webkit-scrollbar {
@@ -33,18 +33,18 @@ code {
 
 @media only screen and (max-width: 768px) {
   body{
-    font-family:'Open Sans', sans-serif;
+    font-family: 'Noto Sans';
   }
   code {
-    font-family:'Open Sans', sans-serif;
+    font-family: 'Noto Sans';
   }
 }
 
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
   body{
-    font-family:'Open Sans', sans-serif;
+    font-family: 'Noto Sans';
   }
   code {
-    font-family:'Open Sans', sans-serif;
+    font-family: 'Noto Sans';
   }
 }

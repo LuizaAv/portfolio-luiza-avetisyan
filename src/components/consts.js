@@ -1,13 +1,20 @@
 export const aboutMe = [
     {
-        date: "1. Jul 2022 - Dec 2023",
+        date: "1. March 2024 - current",
+        place: "Icketi LLC",
+        position: "Software Engineer",
+        website: "https://icketi.com/",
+        description: "web-development"
+    },
+    {
+        date: "2. Jul 2022 - Dec 2023",
         place: "TUMO Labs",
         position: "Teamwork on a project /web page for Student Union/ with React.js. I was responsible for front-end development of this project",
         website: "https://tumolabs.am/en/",
         description: "web-development"
     },
     {
-        date: "2. Mar 2022 - Jul 2023",
+        date: "3. Mar 2022 - Jul 2023",
         place: "EVOCABANK CJSC",
         position: "Service Quality Management Specialist",
         website: "https://www.evoca.am/en/",
@@ -17,7 +24,7 @@ export const aboutMe = [
         ]
     },
     {
-        date: "3. Jul 2017 - Feb 2022",
+        date: "4. Jul 2017 - Feb 2022",
         place: "EVOCABANK CJSC",
         position: "Customer Service Representative",
         website: "https://www.evoca.am/en/",
@@ -27,7 +34,7 @@ export const aboutMe = [
         ]
     },
     {
-        date: "4. Sep 2013 - Jun 2015",
+        date: "5. Sep 2013 - Jun 2015",
         place: "AMBERD RESEARCH CENTER OF ASUE",
         position: "Researcher",
         website: "https://asue.am/en/structure/pages/amberd",

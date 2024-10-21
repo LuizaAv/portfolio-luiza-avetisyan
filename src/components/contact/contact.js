@@ -80,7 +80,7 @@ export default function Contact() {
               type="text"
               name="user_name"
               className="input"
-              placeholder="  ...enter Your name please"
+              placeholder="  ...enter your name please"
             />
             <input
               onChange={emailChange}
@@ -88,14 +88,14 @@ export default function Contact() {
               type="email"
               name="user_email"
               className="input"
-              placeholder="   ...enter Your email please"
+              placeholder="   ...enter your email please"
             />
             <textarea
               onChange={textChange}
               value = {text}
               name="message"
               className="textarea"
-              placeholder="   ...enter Your message please"
+              placeholder="   ...enter your message please"
             />
             <input type="submit" className="submitBtn" value="Send" />
           </form>
